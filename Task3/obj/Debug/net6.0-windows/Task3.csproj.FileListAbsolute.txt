@@ -1,0 +1,48 @@
+C:\Users\Maxim Dolzhenko\RiderProjects\Task3\Task3\bin\Debug\net6.0-windows\Task3.exe
+C:\Users\Maxim Dolzhenko\RiderProjects\Task3\Task3\bin\Debug\net6.0-windows\Task3.deps.json
+C:\Users\Maxim Dolzhenko\RiderProjects\Task3\Task3\bin\Debug\net6.0-windows\Task3.runtimeconfig.json
+C:\Users\Maxim Dolzhenko\RiderProjects\Task3\Task3\bin\Debug\net6.0-windows\Task3.dll
+C:\Users\Maxim Dolzhenko\RiderProjects\Task3\Task3\bin\Debug\net6.0-windows\Task3.pdb
+C:\Users\Maxim Dolzhenko\RiderProjects\Task3\Task3\bin\Debug\net6.0-windows\GeometryLibrary.dll
+C:\Users\Maxim Dolzhenko\RiderProjects\Task3\Task3\bin\Debug\net6.0-windows\GeometryLibrary.pdb
+C:\Users\Maxim Dolzhenko\RiderProjects\Task3\Task3\obj\Debug\net6.0-windows\Task3.csproj.AssemblyReference.cache
+C:\Users\Maxim Dolzhenko\RiderProjects\Task3\Task3\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Maxim Dolzhenko\RiderProjects\Task3\Task3\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Maxim Dolzhenko\RiderProjects\Task3\Task3\obj\Debug\net6.0-windows\Task3_MarkupCompile.cache
+C:\Users\Maxim Dolzhenko\RiderProjects\Task3\Task3\obj\Debug\net6.0-windows\Task3_MarkupCompile.lref
+C:\Users\Maxim Dolzhenko\RiderProjects\Task3\Task3\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Maxim Dolzhenko\RiderProjects\Task3\Task3\obj\Debug\net6.0-windows\Task3.g.resources
+C:\Users\Maxim Dolzhenko\RiderProjects\Task3\Task3\obj\Debug\net6.0-windows\Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxim Dolzhenko\RiderProjects\Task3\Task3\obj\Debug\net6.0-windows\Task3.AssemblyInfoInputs.cache
+C:\Users\Maxim Dolzhenko\RiderProjects\Task3\Task3\obj\Debug\net6.0-windows\Task3.AssemblyInfo.cs
+C:\Users\Maxim Dolzhenko\RiderProjects\Task3\Task3\obj\Debug\net6.0-windows\Task3.csproj.CoreCompileInputs.cache
+C:\Users\Maxim Dolzhenko\RiderProjects\Task3\Task3\obj\Debug\net6.0-windows\Task3.csproj.CopyComplete
+C:\Users\Maxim Dolzhenko\RiderProjects\Task3\Task3\obj\Debug\net6.0-windows\Task3.dll
+C:\Users\Maxim Dolzhenko\RiderProjects\Task3\Task3\obj\Debug\net6.0-windows\refint\Task3.dll
+C:\Users\Maxim Dolzhenko\RiderProjects\Task3\Task3\obj\Debug\net6.0-windows\Task3.pdb
+C:\Users\Maxim Dolzhenko\RiderProjects\Task3\Task3\obj\Debug\net6.0-windows\Task3.genruntimeconfig.cache
+C:\Users\Maxim Dolzhenko\RiderProjects\Task3\Task3\obj\Debug\net6.0-windows\ref\Task3.dll
+D:\IT\6sem\Task3\Task3\bin\Debug\net6.0-windows\Task3.exe
+D:\IT\6sem\Task3\Task3\bin\Debug\net6.0-windows\Task3.deps.json
+D:\IT\6sem\Task3\Task3\bin\Debug\net6.0-windows\Task3.runtimeconfig.json
+D:\IT\6sem\Task3\Task3\bin\Debug\net6.0-windows\Task3.dll
+D:\IT\6sem\Task3\Task3\bin\Debug\net6.0-windows\Task3.pdb
+D:\IT\6sem\Task3\Task3\bin\Debug\net6.0-windows\GeometryLibrary.dll
+D:\IT\6sem\Task3\Task3\bin\Debug\net6.0-windows\GeometryLibrary.pdb
+D:\IT\6sem\Task3\Task3\obj\Debug\net6.0-windows\Task3.csproj.AssemblyReference.cache
+D:\IT\6sem\Task3\Task3\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\IT\6sem\Task3\Task3\obj\Debug\net6.0-windows\App.g.cs
+D:\IT\6sem\Task3\Task3\obj\Debug\net6.0-windows\Task3_MarkupCompile.cache
+D:\IT\6sem\Task3\Task3\obj\Debug\net6.0-windows\Task3_MarkupCompile.lref
+D:\IT\6sem\Task3\Task3\obj\Debug\net6.0-windows\MainWindow.baml
+D:\IT\6sem\Task3\Task3\obj\Debug\net6.0-windows\Task3.g.resources
+D:\IT\6sem\Task3\Task3\obj\Debug\net6.0-windows\Task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\6sem\Task3\Task3\obj\Debug\net6.0-windows\Task3.AssemblyInfoInputs.cache
+D:\IT\6sem\Task3\Task3\obj\Debug\net6.0-windows\Task3.AssemblyInfo.cs
+D:\IT\6sem\Task3\Task3\obj\Debug\net6.0-windows\Task3.csproj.CoreCompileInputs.cache
+D:\IT\6sem\Task3\Task3\obj\Debug\net6.0-windows\Task3.csproj.Up2Date
+D:\IT\6sem\Task3\Task3\obj\Debug\net6.0-windows\Task3.dll
+D:\IT\6sem\Task3\Task3\obj\Debug\net6.0-windows\refint\Task3.dll
+D:\IT\6sem\Task3\Task3\obj\Debug\net6.0-windows\Task3.pdb
+D:\IT\6sem\Task3\Task3\obj\Debug\net6.0-windows\Task3.genruntimeconfig.cache
+D:\IT\6sem\Task3\Task3\obj\Debug\net6.0-windows\ref\Task3.dll
